@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://64.media.tumblr.com/tumblr_mc65brAmH41rexsomo1_400.gif">
+<img src="">
   
 ### Hi there 👋
 
