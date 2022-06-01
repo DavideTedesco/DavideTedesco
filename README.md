@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://media.giphy.com/media/3oEjHCsVNCtUkgVZ3q/giphy.gif">
+<img src="https://64.media.tumblr.com/tumblr_mc65brAmH41rexsomo1_400.gif">
   
 ### Hi there 👋
 
