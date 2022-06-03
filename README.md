@@ -3,7 +3,7 @@
   
 ### Hi there 👋
 
-I'm Davide Tedesco, after the first Degree obtained in Elctronic Music with the maximum marks at the Conservatory of Rome, Santa Cecila, i decided to begin in parallel with the Diploma of specialisation at the Conservatory, a Computer Engineering degree at the University of Roma Tre. 
+I'm Davide Tedesco, after the first Degree obtained in Elctronic Music with the maximum marks at the Conservatory of Rome, Santa Cecilia, i decided to begin in parallel with the Diploma of specialisation at the Conservatory, a Computer Engineering degree at the University of Roma Tre. 
 
   I am interested and passionate about the technological sphere, sports, reading books, arts and nature.
 
