@@ -11,7 +11,7 @@ Here's [my website](https://www.davidetedesco.it/) where I occasionally write ra
 
 ### Here are some stats 📈
 
-<p><img src="https://activity-graph.herokuapp.com/graph?username=DavideTedesco"><p>
+<p><img src="https://activity-graph.herokuapp.com/graph?username=DavideTedesco&theme=gotham"><p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideTedesco&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
