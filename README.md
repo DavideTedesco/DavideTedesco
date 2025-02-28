@@ -9,6 +9,8 @@ I'm Davide Tedesco, after the first Degree obtained in Elctronic Music with the 
 
 Here's [my website](https://www.davidetedesco.it/) where I occasionally write random stuff.
 
+I'm currently migrating all my projects [here](https://gitlab.com/DavideTedesco/), and [here](https://about.gitlab.com/blog/gitlab-is-open-core-github-is-closed-source/)'s why. 
+
 <!--### Here are some stats 📈
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DavideTedesco&count_private=true&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
